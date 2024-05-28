@@ -1,0 +1,17 @@
+.oval-img {
+    border-radius: 50%; 
+    width: 250px; 
+    height: 250px; 
+    object-fit: cover;
+}
+
+html body {
+    background-color:bisque;
+}
+
+.footer {
+    background-color: #000000; 
+    color: #fff; 
+    padding: 20px 0;
+    text-align: center; 
+}
