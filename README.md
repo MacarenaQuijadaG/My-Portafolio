@@ -1,7 +1,5 @@
 # My Portafolio
 
-## Descripción
-Esta pagina web consta
 ## Visuales
 ![1](https://github.com/MacarenaQuijadaG/My-Portafolio/assets/50925916/973061b3-2e24-4c6a-9540-f0971cac2bc8)
 
@@ -15,7 +13,7 @@ Estas instrucciones te guiarán para obtener una copia de este proyecto en funci
 Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
 
 #paso 1
-con la [url](), se clona el repositorio
+con la [url](https://github.com/MacarenaQuijadaG/My-Portafolio.git), se clona el repositorio
 
 ## Ejecutando las Pruebas ⚙️
 
@@ -32,9 +30,9 @@ Se desplega a travez de la consola de visual studio con power shell.
 ## Construido Con 🛠️
 
 Las tecnologias que utilice para construir este proyecto son:
-- [Html]
-- [Css]
-- [JavaScript]
+- [Html](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Css](https://developer.mozilla.org/es/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 ---
 
