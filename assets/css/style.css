@@ -39,3 +39,6 @@ html body {
     width: 18rem; 
 }
 
+body a {
+    color: rgb(152, 5, 152);
+}
