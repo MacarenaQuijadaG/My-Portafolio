@@ -16,9 +16,26 @@ html body {
     text-align: center; 
 }
 
-.herramientas{
+#herramientas{
     background-color: #000;
     color: #fff; 
     padding: 20px; 
     text-align: center;
 }
+
+#proyectos{
+    padding: 20px; 
+    text-align: center;
+}
+.card-container {
+    display: flex; 
+    gap: 20px; 
+    overflow-x: auto;
+    padding-bottom: 20px; 
+}
+
+.card {
+    flex: 0 0 auto;
+    width: 18rem; 
+}
+
