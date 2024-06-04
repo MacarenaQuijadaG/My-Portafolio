@@ -13,7 +13,7 @@ Estas instrucciones te guiarán para obtener una copia de este proyecto en funci
 Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
 
 #paso 1
-con la [url](https://github.com/MacarenaQuijadaG/My-Portafolio.git), se clona el repositorio
+con la url https://github.com/MacarenaQuijadaG/My-Portafolio.git, se clona el repositorio
 
 ## Ejecutando las Pruebas ⚙️
 
