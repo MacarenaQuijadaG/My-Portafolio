@@ -1,9 +1,5 @@
 # My Portafolio
 
-## Visuales
-![1](https://github.com/MacarenaQuijadaG/My-Portafolio/assets/50925916/973061b3-2e24-4c6a-9540-f0971cac2bc8)
-
-
 ## Empezando 🚀
 
 Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
