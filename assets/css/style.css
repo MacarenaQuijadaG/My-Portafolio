@@ -1,36 +1,79 @@
-.oval-img {
-    border-radius: 50%; 
-    width: 250px; 
-    height: 250px; 
+
+:root {
+    --primary-color: #49243E;
+    --secondary-color: #704264;
+    --bg-color: #BB8493;
+    --text-color: #DBAFA0;
+    --btn-hover: #8B5E75;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+.navbar {
+    background-color: var(--primary-color) !important;
+}
+
+.navbar-nav .nav-link {
+    color: var(--text-color) !important;
+}
+.herramientas-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.herramienta {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.herramienta i {
+    font-size: 3rem;
+}
+
+.info-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.info-text {
+    max-width: 600px;
+    text-align: justify;
+}
+
+.info-img img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
     object-fit: cover;
 }
 
-.img {
-    width: 285px; 
-     
-    object-fit: cover;
-}
-html body {
-    background-color: bisque;
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
-.footer {
-    background-color: #000000; 
-    color: #fff; 
-    padding: 20px 0;
-    text-align: center; 
-}
-
-#herramientas {
-    background-color: #000;
-    color: #fff; 
-    padding: 20px; 
+.card {
+    width: 250px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
     text-align: center;
-}
-
-#proyectos {
-    padding: 20px; 
-    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: var(--secondary-color);
 }
 
 .card-container {
@@ -44,21 +87,34 @@ html body {
     flex: 0 0 auto;
     width: 18rem; 
 }
-
-body a {
-    color: rgb(152, 5, 152);
-}
-#herramientas i {
-    font-size: 3rem; 
-}
-#contacto {
-    margin-bottom: 50px;
+.contacto-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
 }
 
-#herramientas {
-    margin-bottom: 50px; 
-    margin-top: 50px;
+.contacto-info {
+    max-width: 300px;
+    text-align: left;
 }
-#proyectos {
-    margin-top: 50px;
+
+.contacto-info a {
+    display: block;
+    color: var(--primary-color);
+    text-decoration: none;
+    margin-bottom: 8px;
+}
+
+.contacto-info a:hover {
+    text-decoration: underline;
+}
+
+.contacto-form {
+    width: 300px;
+    text-align: center;
+}
+footer {
+    background-color: var(--primary-color);
+    color: var(--text-color);
 }
