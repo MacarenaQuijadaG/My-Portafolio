@@ -28,7 +28,7 @@ Se desplega a travez de la consola de visual studio con power shell.
 Las tecnologias que utilice para construir este proyecto son:
 - [Html](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Css](https://developer.mozilla.org/es/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
 
 ---
 
