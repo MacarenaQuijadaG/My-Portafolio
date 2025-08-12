@@ -9,27 +9,4 @@ Estas instrucciones te guiarán para obtener una copia de este proyecto en funci
 Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
 
 #paso 1
-con la url https://github.com/MacarenaQuijadaG/My-Portafolio.git, se clona el repositorio
-
-## Ejecutando las Pruebas ⚙️
-
-Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
-
-####  La pagina se levanta con :
-
-Live Server
-
-## Despliegue 📦
-
-Se desplega a travez de la consola de visual studio con power shell.
-
-## Construido Con 🛠️
-
-Las tecnologias que utilice para construir este proyecto son:
-- [Html](https://developer.mozilla.org/es/docs/Web/HTML)
-- [Css](https://developer.mozilla.org/es/docs/Web/CSS)
-
-
----
-
-⌨️ con ❤️ por [Macarena Quijada G](https://github.com/MacarenaQuijadaG)
+con la url https://github.com/MacarenaQuijadaG/My-Portafolio.git, se clona el 
